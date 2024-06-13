@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>ONLINE PAYMENT</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>613035bd-a991-44cc-a79c-c76fe687310f</testCaseGuid>
+</TestCaseEntity>
